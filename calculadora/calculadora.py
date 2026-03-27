@@ -2,7 +2,7 @@ import soma
 import subtrai
 import multiplica
 import divide
-
+import RestDivisao
 n1 = float(input("Digite o primeiro número: "))
 n2 = float(input("Digite o segundo número: "))
 operador = input("Digite a operação (+, -, *, /): ")
@@ -22,6 +22,9 @@ elif operador == "*":
 elif operador == "/":
     resultado = divide.dividef(n1, n2)
     print("Resultado:", resultado)
-
+    
+elif operado == "//":
+    resultado = RestDivisao.restdivisao(n1,n2)
+    print("Resultado:", resultado)
 else:
     print("Operador inválido")
