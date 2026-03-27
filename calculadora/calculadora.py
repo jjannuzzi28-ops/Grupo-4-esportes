@@ -24,7 +24,7 @@ elif operador == "/":
     print("Resultado:", resultado)
     
 elif operado == "//":
-    resultado = RestDivisao.resto_divisao(n1,n2)
+    resultado = restDivisao.resto_divisao(n1,n2)
     print("Resultado:", resultado)
 else:
     print("Operador inválido")
