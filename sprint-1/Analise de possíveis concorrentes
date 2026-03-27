@@ -1,0 +1,222 @@
+Analise de concorrentes
+
+1. Aplicativos analisados: 
+* Nike Run Club
+* Adidas Running
+* Runkeeper
+* Komoot
+* Relive
+* Ride with GPS
+
+
+2. Visão Geral do Mercado
+Os aplicativos esportivos evoluíram de simples ferramentas de rastreamento para plataformas completas 
+que integram monitoramento, treinamento, socialização e exploração de rotas.
+Essa transformação reflete a demanda por experiências mais completas e personalizadas para cada usuario.
+
+Adicionalmente, observa-se que limitações técnicas, como a dependência da precisão do GPS do dispositivo, ou até apenas o 
+serviço de GPS fornecido dentro do aplicativo, ainda representam desafios relevantes para a maioria das plataformas.
+
+
+3. Análise Individual dos Aplicativos
+
+
+3.1 Nike Run Club
+
+a) Posicionamento
+
+Aplicativo voltado à motivação e acessibilidade, com foco em todos os tipos de corredores.
+
+b) Funcionalidades
+
+* Monitoramento por GPS (tempo, distância e ritmo)
+* Treinos guiados com áudio
+* Planos de treino personalizados
+* Integração com plataformas de música
+* Integração com dispositivos de medição cardiaca
+* Sistema de desafios e compartilhamento social
+
+c) Pontos Fortes
+
+* Interface simples e intuitiva
+* Forte apelo motivacional
+* Gratuidade da maior parte dos recursos
+* Compatibilidade com diferentes dispositivos
+* Desafios e conquistas (gameficação, ajuda o usuario a se desafiar)
+
+d) Pontos Fracos
+
+* Limitação na profundidade de dados (métricas limitadas)
+* Baixa personalização avançada
+* Dependência da precisão do GPS do dispositivo
+* Foco excessivo em social
+
+
+3.2 Adidas Running
+
+a) Posicionamento
+
+Plataforma completa com foco em diversidade de funcionalidades e esportes.
+
+b) Funcionalidades
+
+* Monitoramento detalhado de atividades
+* Planos de treino estruturados
+* Criação e compartilhamento de rotas
+* Live tracking (acompanhamento em tempo real)
+* Possivel integração com AdiClub, para acumulo de pontos e descontos 
+* Integração com dispositivos de medição cardiaca
+
+c) Pontos Fortes
+
+* Grande variedade de recursos
+* Forte integração social
+* Suporte a múltiplos esportes
+* Acumulo de pontos, podendo gerar descontos 
+
+d) Pontos Fracos
+
+* Interface mais complexa
+* Parte significativa das funcionalidades é paga
+* Pontos não sintonizam automaticamente
+* Suporte ao cliente ineficiente
+
+
+3.3 Runkeeper
+
+a) Posicionamento
+
+Aplicativo focado em simplicidade e confiabilidade no monitoramento.
+
+b) Funcionalidades
+
+* Rastreamento GPS detalhado
+* Estatísticas de desempenho
+* Planos de treino
+* Registro manual de atividades
+* Diferentes esportes no aplicativo
+
+c) Pontos Fortes
+
+* Interface simples
+* Dados consistentes
+* Boa estabilidade
+* Integração com diferentes dispositivos
+
+d) Pontos Fracos
+
+* Baixo nível de inovação recente
+* Recursos sociais limitados
+* Rastreamento GPS no Android não fluido
+* Complexidade para iniciantes
+
+
+3.4 Komoot
+
+a) Posicionamento
+
+Aplicativo voltado à exploração outdoor, como trilhas, ciclismo e caminhadas.
+
+b) Funcionalidades
+
+* Planejamento avançado de rotas
+* Navegação guiada por voz
+* Mapas offline
+* Compartilhamento de rotas
+* Caminhos e trilhas sugeridas por outros usuarios
+
+c) Pontos Fortes
+
+* Alta qualidade em planejamento de trajetos
+* Excelente para exploração geográfica
+* Mapas offline
+* Compatibilidade com diferentes dispositivos cardiacos e de GPS
+
+d) Pontos Fracos
+
+* Menor foco em treino estruturado
+* Interface mais técnica
+* Mapas offline pagos  
+* Planejador automatico de rotas de MTB falho
+
+
+3.5 Relive
+
+a) Posicionamento
+
+Aplicativo com foco em experiência visual e compartilhamento social.
+
+b) Funcionalidades
+
+* Criação de vídeos 3D dos treinos
+* Compartilhamento em redes sociais
+* Integração com outros aplicativos
+* Resumo de dados
+
+c) Pontos Fortes
+
+* Alto engajamento visual
+* Forte potencial de compartilhamento
+* Conectividade com outros aplicativos e interfaces
+* Versatilidade
+
+d) Pontos Fracos
+
+* Não atua como plataforma principal de monitoramento
+* Dependência de outros aplicativos
+* Necessidade de conexão
+* Dependencia externa de aplicativos terceiros
+
+ 
+3.6 Ride with GPS
+
+a) Posicionamento
+
+Aplicativo especializado em ciclismo e navegação avançada.
+
+b) Funcionalidades
+
+* Planejamento detalhado de rotas
+* Navegação curva a curva
+* Dados avançados de percurso
+
+c) Pontos Fortes
+
+* Alta precisão
+* Ferramentas profissionais para ciclistas
+* Modo handlebar
+* Integração com outros GPS fluida
+
+d) Pontos Fracos
+
+* Nicho específico
+* Baixa presença social
+* Complexidade de uso 
+* Funcionalidades restritas no plano gratuito
+
+
+4. Comparação Geral
+
+A análise dos principais aplicativos mostra que cada um resolve bem uma parte do problema, mas nenhum entrega tudo junto. O Nike Run Club, por exemplo, 
+é muito fácil de usar e funciona bem para motivar quem está começando, mas deixa a desejar quando o assunto é análise mais detalhada de desempenho. 
+Já o Adidas Running oferece muitos recursos e atende diferentes esportes, porém pode acabar sendo mais complicado de usar e depende bastante da versão 
+paga para liberar tudo.
+
+O Runkeeper segue um caminho mais simples e direto, sendo confiável para acompanhar treinos, mas não investe tanto em interação entre usuários. Por outro lado, 
+o Komoot se destaca quando o objetivo é explorar rotas e fazer atividades ao ar livre, enquanto o Relive chama atenção pela parte visual e pelo compartilhamento 
+nas redes, funcionando mais como complemento. Já o Ride with GPS é bastante eficiente para ciclistas, mas acaba ficando restrito a esse público.
+
+
+6. Conclusão
+
+A análise dos concorrentes demonstra que, embora existam soluções consolidadas no mercado, nenhuma delas oferece uma experiência plenamente integrada entre 
+monitoramento, comunidade e interação social ativa.
+
+Portanto, um novo aplicativo que priorize:
+
+* Comunidade como elemento central
+* Integração social avançada
+* Experiência de usuário simplificada
+* Integração com diferentes dispositivos de monitoramento e GPS
+
+possui potencial competitivo relevante no mercado atual.

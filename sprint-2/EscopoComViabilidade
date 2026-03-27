@@ -1,0 +1,41 @@
+Projeto Motion Club Escopo e Viabilidade
+Data: 24 de Março de 2026
+Ferramentas de Apoio: Figma (Design e Prototipagem) e GitHub (Repositório e Documentação)
+
+1. Conceito do Projeto
+O Motion Club é uma plataforma digital desenvolvida para conectar pessoas através do esporte. O foco não é apenas o registro de atividades, mas a criação de uma comunidade onde o usuário encontra parceiros, grupos e eventos esportivos de forma prática e segura.
+Proposta de Valor:
+Facilitar o encontro de pessoas com interesses esportivos comuns.
+Incentivar a vida ativa através do senso de comunidade.
+Simplificar a organização de treinos e eventos coletivos.
+
+2. Escopo Técnico (Funcionalidades)
+O escopo define o que o sistema deve ser capaz de fazer. Para o Motion Club, o desenvolvimento será dividido nos seguintes módulos principais:
+Módulo de Usuário e Perfil
+Cadastro e Login: Sistema de entrada via e-mail ou redes sociais.
+Perfil Esportivo: Espaço para o usuário definir seus esportes favoritos, nível de intensidade e disponibilidade de horário.
+Integração de Saúde: Leitura automática de dados (passos, distância e calorias) vindos dos sensores do celular.
+Módulo de Localização e Mapas
+Busca por Proximidade: Filtro para encontrar grupos e treinos que acontecem perto da localização atual do usuário.
+Visualização em Mapa: Exibição de pontos de encontro e rotas de trilhas ou corridas.
+Criação de Eventos: Ferramenta para o usuário marcar um treino, definindo local, data, hora e limite de participantes.
+Módulo Social
+Grupos de Interesse: Espaços dedicados a modalidades específicas (ex: Grupo de Beach Tennis, Pedal de Sábado).
+Feed de Atividades: Compartilhamento das conquistas e treinos realizados para interação com curtidas e comentários.
+Sistema de Notificações: Alertas sobre novos eventos, confirmações de presença e mensagens da comunidade.
+
+3. Estudo de Viabilidade
+A viabilidade analisa os riscos e as condições necessárias para o projeto sair do papel e funcionar corretamente.
+Viabilidade Técnica
+A construção do app é possível utilizando tecnologias de desenvolvimento multiplataforma. O uso do GitHub é fundamental para garantir que o código seja versionado e seguro. O maior desafio técnico é a precisão do GPS e a garantia de que o aplicativo continue funcionando de forma leve, sem travar o celular do usuário durante o uso intenso de mapas.
+Viabilidade Operacional
+O projeto depende da clareza visual definida no Figma. Se o design for seguido à risca, a operação de uso será simples. No entanto, o sucesso operacional depende de manter a base de dados atualizada e moderar os grupos para evitar perfis falsos ou comportamentos inadequados, garantindo a segurança física dos participantes nos encontros reais.
+Viabilidade de Dados e Escalabilidade
+Como o sistema lida com localização e dados de saúde, existe a necessidade de seguir as regras de privacidade (LGPD). É viável começar com um servidor pequeno e aumentar a capacidade conforme o número de usuários crescer. O custo de manter o sistema aumenta conforme o volume de mapas carregados, o que exige um monitoramento constante dos gastos com serviços de terceiros.
+
+4. Checklist de Definições Pendentes para Desenvolvimento
+Para iniciar a programação, as seguintes decisões precisam ser tomadas:
+Plataforma de Execução: Definir se o foco inicial será um site responsivo ou um aplicativo para instalação direta no celular.
+Modelo de Mapas: Escolher entre o serviço do Google Maps ou opções alternativas com base no custo de manutenção.
+Política de Privacidade: Definir como os dados de localização serão protegidos e por quanto tempo serão armazenados.
+OBS: Meu Nivel de entendimento tecnico de app e DEV Nao é dos mais rebuscados O escopo foi mais da ideia do que da parte tecnica, na sprint 3 irei colocar estudar DEV e Fazer um escopo atualizado como tarefa media. 
