@@ -1,1 +1,46 @@
 
+# Requisitos Funcionais – Motion Club (Sprint 2)
+
+Os requisitos funcionais descrevem o que o sistema deve fazer e quais ações o usuário pode realizar dentro da plataforma.
+
+RF01 – Cadastro de usuário
+O sistema deve permitir que o usuário crie uma conta informando nome, e-mail e senha.
+
+RF02 – Login de usuário
+O sistema deve permitir que usuários cadastrados façam login utilizando e-mail e senha.
+
+RF03 – Edição de perfil
+O usuário deve poder editar suas informações pessoais, como nome e esportes de interesse.
+
+RF04 – Seleção de esportes
+O sistema deve permitir que o usuário escolha os esportes que deseja praticar.
+
+RF05 – Visualização de esportes
+O sistema deve mostrar uma lista de esportes disponíveis na plataforma.
+
+RF06 – Busca de grupos
+O usuário deve poder buscar grupos com base no esporte ou localização.
+
+RF07 – Participação em grupos
+O sistema deve permitir que o usuário entre em grupos esportivos existentes.
+
+RF08 – Criação de grupos
+O usuário deve poder criar novos grupos esportivos.
+
+RF09 – Visualização de eventos
+O sistema deve exibir eventos esportivos disponíveis.
+
+RF10 – Participação em eventos
+O usuário deve poder participar de eventos organizados na plataforma.
+
+RF11 – Informações de grupos e eventos
+O sistema deve apresentar informações como local, data, horário e número de participantes.
+
+RF12 – Interação entre usuários
+O sistema deve permitir interação básica entre usuários (ex: mensagens ou comentários).
+
+RF13 – Notificações
+O sistema deve enviar notificações sobre eventos, convites ou atualizações.
+
+RF14 – Cancelamento de participação
+O usuário deve poder sair de grupos ou cancelar participação em eventos.
